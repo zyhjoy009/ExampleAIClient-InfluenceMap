@@ -1,0 +1,10 @@
+﻿生成启动时间为 2017-3-17 10:40:22。
+     1>项目“D:\BWAPI\ExampleAIClient\ExampleAIClient.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I../include /Zi /nologo /W3 /WX- /MP /O2 /Oi /Oy- /GL /D CODE_ANALYSIS /D NOMINMAX /D WIN32 /D NDEBUG /D _CONSOLE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze /analyze:plugin"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\\bin\localespc.dll" /errorReport:prompt   /analyze:quiet Source\ExampleAIClient.cpp
+         ExampleAIClient.cpp
+     1>已完成生成项目“D:\BWAPI\ExampleAIClient\ExampleAIClient.vcxproj”(Rebuild 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:10.04
